@@ -15,6 +15,6 @@
     "@slack/events-api": "^2.0.0",
     "axios": "^0.18.0",
     "express": "^4.16.3",
-    "papaparse": "^4.6.0"
+    "papaparse": "^5.3.0"
   }
 }
